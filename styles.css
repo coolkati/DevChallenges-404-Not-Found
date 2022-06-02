@@ -1,0 +1,50 @@
+/** {
+	border: solid red;
+}*/
+.container-all {
+	position: relative;
+}
+.container-header__text {
+	font-family: 'Inconsolata', monospace;
+	font-size: 24px;
+	line-height: 25px;
+	letter-spacing: -0.08em;
+	text-transform: uppercase;
+	color: black;
+}
+.container-img-info {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-column-gap: 20px;
+}
+.container-image__image {
+	width: 100%;
+}
+.container-info {
+	font-family: 'Space Mono', monospace;
+}
+.container-info__title {
+	font-size: 64px;
+	font-weight: 700;
+}
+.container-info__text {
+	font-size: 24px;
+}
+.container-info__button {
+	font-family: 'Space Mono', monospace;
+	text-transform: uppercase;
+	background-color: #333333;
+	color: #FFFFFF;
+	padding: 3%;
+}
+/*.container-footer {
+	position: fixed;
+	bottom: 0;
+	left: 25%;
+	right: 25%;
+}*/
+.container-footer__info {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: #BDBDBD;
+}
