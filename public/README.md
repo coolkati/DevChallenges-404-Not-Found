@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://kc-dc-404-not-found.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/coolkati/DevChallenges-404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -38,20 +38,14 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project is a recreation of the design found on <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">figma</a>. Some of the major things I accomplished doing this was learning how to better plan creation of a design, learning a new methodology for class naming, and refreshing my pure CSS skills, since I didn't use a framework. Additionally, I set up hosting of a site on Firebase for the first time, which was useful to learn. 
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]
+- [CSS]
 
 ## Features
 
@@ -65,11 +59,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [BEM reference](http://getbem.com/introduction/)
+- [More in-depth BEM guide](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [Introduction to Firebase hosting](https://firebase.google.com/docs/hosting)
+- [Firebase CLI reference](https://firebase.google.com/docs/cli#sign-in-test-cli)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [coolkati.github.io](https://coolkati.github.io)
+- GitHub [@coolkati](https://github.com/coolkati)
