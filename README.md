@@ -38,7 +38,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-This project is a recreation of the design found on <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">figma</a>. Some of the major things I accomplished doing this was learning how to better plan creation of a design, learning a new methodology for class naming, and refreshing my pure CSS skills, since I didn't use a framework. Additionally, I set up hosting of a site on Firebase for the first time, which was useful to learn. 
+This project is a recreation of the design found on <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">figma</a>. Some of the major things I accomplished doing this were: learning how to better plan creation of a design, learning a new methodology for class naming, and refreshing my pure CSS skills, since I didn't use a framework. Additionally, I set up hosting of a site on Firebase for the first time, which was useful to learn. 
 
 ### Built With
 
